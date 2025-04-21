@@ -1,4 +1,4 @@
-# 🧮 Jaskirat's Personal Scientific Calculator
+# 🧮 Scientific Calculator
 
 This is a **Python-based Scientific Calculator** built using the **Tkinter GUI library** and the **Math module**. It provides a clean graphical interface to perform both basic arithmetic and advanced scientific calculations.
 
